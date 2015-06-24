@@ -6,4 +6,4 @@
 ```
 
 # Running the tests
-to run: `ruby get_assets <JOB_ID>	`
+to run: `ruby get_assets <JOB_ID>`
